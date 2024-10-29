@@ -36,3 +36,5 @@ touch questionnaire.sh
 sh questionnaire.sh
 bash questionnaire.sh
 which bash
+ls --color=auto
+./questionnaire.sh
