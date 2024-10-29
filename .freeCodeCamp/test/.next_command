@@ -33,3 +33,4 @@ echo hello world
 __vsc_prompt_cmd_original
 echo hello bash
 touch questionnaire.sh
+sh questionnaire.sh
