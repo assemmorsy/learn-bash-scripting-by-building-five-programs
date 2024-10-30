@@ -2,6 +2,7 @@
 
 QUESTION1="What's your name?"
 QUESTION2="Where are you from?"
+QUESTION3="What's your favorite coding website?"
 echo -e "\n~~ Questionnaire ~~\n"
 echo $QUESTION1
 read NAME
