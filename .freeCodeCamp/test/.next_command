@@ -80,3 +80,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./questionnaire.sh
 echo --help
 man echo
+man echo
+./questionnaire.sh
