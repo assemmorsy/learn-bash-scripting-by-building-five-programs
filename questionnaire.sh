@@ -2,7 +2,7 @@
 
 QUESTION1="What's your name?"
 QUESTION2="Where are you from?"
-
+echo ~~ Questionnaire ~~
 echo $QUESTION1
 read NAME
 
