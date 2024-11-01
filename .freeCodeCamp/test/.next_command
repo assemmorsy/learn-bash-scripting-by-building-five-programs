@@ -203,3 +203,5 @@ help [[
 ./countdown.sh -5
 help
 ./countdown.sh 10
+__vsc_prompt_cmd_original
+help
