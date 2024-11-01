@@ -217,3 +217,4 @@ sleep 3
 ./countdown.sh 1
 __vsc_prompt_cmd_original
 help while
+./countdown.sh 5
