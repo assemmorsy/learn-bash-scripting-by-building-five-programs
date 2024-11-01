@@ -207,3 +207,6 @@ __vsc_prompt_cmd_original
 help
 ls --color=auto /
 ls --color=auto /bin
+sleep man
+man sleep
+__vsc_prompt_cmd_original
