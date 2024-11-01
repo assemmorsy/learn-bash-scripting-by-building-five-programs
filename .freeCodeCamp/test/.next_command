@@ -229,3 +229,4 @@ echo $RANDOM
 ./b
 ./bingo.sh
 ./bingo.sh
+./bingo.sh
