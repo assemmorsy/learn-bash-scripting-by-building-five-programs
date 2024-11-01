@@ -210,3 +210,4 @@ ls --color=auto /bin
 sleep man
 man sleep
 __vsc_prompt_cmd_original
+sleep 3
