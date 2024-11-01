@@ -218,3 +218,4 @@ sleep 3
 __vsc_prompt_cmd_original
 help while
 ./countdown.sh 5
+touch bingo.sh
