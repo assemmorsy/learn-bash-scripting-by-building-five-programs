@@ -234,3 +234,5 @@ echo $RANDOM
 I=0
 __vsc_prompt_cmd_original
 echo $I
+__vsc_prompt_cmd_original
+(( I++ ))
