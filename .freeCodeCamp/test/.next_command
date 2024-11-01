@@ -211,3 +211,5 @@ sleep man
 man sleep
 __vsc_prompt_cmd_original
 sleep 3
+./countdown.sh 10
+./countdown.sh 3
